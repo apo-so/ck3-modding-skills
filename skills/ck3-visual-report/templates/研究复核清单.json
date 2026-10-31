@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "draft_sha256": "【待填写】最终报告底稿文件的 SHA-256",
+  "sources": [],
+  "excerpts": [],
+  "coverage": [
+    {
+      "id": "R1",
+      "requirement": "【待填写】本次用户要求中的一项可核对内容；按实际范围增补",
+      "status": "NOT_RUN",
+      "targets": [],
+      "evidence": "未执行；本文件是复核模板。",
+      "reason": "尚未登记实际覆盖范围、交付位置与来源。"
+    }
+  ],
+  "semantic_review": {
+    "reviewer": "【待填写】实际复核者及身份",
+    "method": "未执行；填写实际检查方法后才能作为复核记录。",
+    "checks": [
+      {
+        "dimension": "coverage",
+        "status": "NOT_RUN",
+        "evidence": "尚未核对内容覆盖。",
+        "reason": "待对照用户要求、输入范围与实际交付。"
+      },
+      {
+        "dimension": "facts_units_conditions",
+        "status": "NOT_RUN",
+        "evidence": "尚未核对事实、单位与条件。",
+        "reason": "待逐项核对增减方向、作用对象、系数及边界。"
+      },
+      {
+        "dimension": "scope_causality",
+        "status": "NOT_RUN",
+        "evidence": "尚未核对作用域与因果。",
+        "reason": "待读取点、默认规则、调用与后继证据。"
+      },
+      {
+        "dimension": "source_identity",
+        "status": "NOT_RUN",
+        "evidence": "尚未核对来源身份。",
+        "reason": "待区分本轮原文件、历史转述、推断与设计。"
+      },
+      {
+        "dimension": "raw_preservation",
+        "status": "NOT_RUN",
+        "evidence": "尚未核对原文保留。",
+        "reason": "待实际来源、提取范围及原文对照。"
+      },
+      {
+        "dimension": "teaching_depth",
+        "status": "NOT_RUN",
+        "evidence": "尚未核对教学深度。",
+        "reason": "待按声明的对象与片段范围核对实质语句解释。"
+      },
+      {
+        "dimension": "cross_artifact_consistency",
+        "status": "NOT_RUN",
+        "evidence": "尚未核对交付一致性。",
+        "reason": "待最终页面、底稿、来源台账与交接文件对照。"
+      }
+    ]
+  }
+}

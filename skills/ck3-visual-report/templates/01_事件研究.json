@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "title": "【待填写】单事件与事件链",
+    "subtitle": "先看结果，再追机制，最后核对证据。",
+    "game_version": "【待填写】本轮文件版本",
+    "scope": "【待填写】本轮研究范围",
+    "report_version": "1.1",
+    "basis": "【待填写】实际取得的文件与证据",
+    "verification": "尚未研究；没有游戏内验证记录。",
+    "profile": "event",
+    "status": "template"
+  },
+  "sources": [],
+  "sections": [
+    {
+      "id": "identity",
+      "summary": "【待填写】事件的真实根来源、当前调用层、游戏文件版本分别是什么？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "根系统",
+              "text": "【待填写】真正上游入口，不只是父事件"
+            },
+            {
+              "title": "触发方式",
+              "text": "【待填写】主动／状态／周期／候选／随机"
+            },
+            {
+              "title": "证据边界",
+              "text": "【待填写】只纳入哪些文件"
+            },
+            {
+              "title": "验证状态",
+              "text": "未研究，不标通过"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "overview",
+      "summary": "【待填写】为什么这次会出现？原版故事讲什么？最重要的选择代价和收益是什么？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "choices",
+      "summary": "【待填写】全部选项是什么？出现前共同效果、每项差异与选择后共同收尾分别是什么？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "aftermath",
+      "summary": "【待填写】是否调用另一个事件、换人物视角、建立冷却或关系？窗口关闭后还剩什么？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "lifecycle",
+      "summary": "【待填写】上游入口→候选→抽中→立即效果→选项→后继／清理怎样连接？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": [
+        {
+          "type": "transitions",
+          "items": [
+            {
+              "from": "【待填写】来源节点",
+              "to": "【待填写】目标节点",
+              "cause": "【待填写】进入理由，不能只画箭头"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conditions",
+      "summary": "【待填写】事件组门槛、资格条件和内部随机分别在哪？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "actors",
+      "summary": "【待填写】根角色、当前角色、保存的目标和后继事件根角色分别是谁？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "numbers",
+      "summary": "【待填写】固定值、动态数值、相对权重、空结果与人格条件分别怎样算？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "browser",
+      "summary": "【待填写】本次收录哪些事件和中转？唯一数量、引用数量及未追踪数量分别是多少？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "results",
+      "summary": "【待填写】各选项如何改变真实资源、好感、正式关系、标记或后续资格？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "states",
+      "summary": "【待填写】冷却、标记、修正、关系是谁持有，怎样建立、更新和清理？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "evidence",
+      "summary": "【待填写】原文、选项、隐藏效果、根入口、后继与游戏实测分别到什么程度？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "teaching",
+      "summary": "【待填写】逐句解释条件、效果与作用域，保留原结构；共同语句不反复解释。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "raw",
+      "summary": "【待填写】从实际游戏文件保真摘录，并记录版本、路径、符号行段与哈希。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "sources",
+      "summary": "【待填写】将代码、本地化、脚本数值、调用入口逐项绑定来源。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "audit",
+      "summary": "【待填写】记录本轮新增、修正、保留、删去内容和真实执行的检查。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    }
+  ],
+  "cards": [],
+  "code": []
+}

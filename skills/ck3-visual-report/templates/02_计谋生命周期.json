@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "title": "【待填写】计谋生命周期",
+    "subtitle": "先看结果，再追机制，最后核对证据。",
+    "game_version": "【待填写】本轮文件版本",
+    "scope": "【待填写】本轮研究范围",
+    "report_version": "1.1",
+    "basis": "【待填写】实际取得的文件与证据",
+    "verification": "尚未研究；没有游戏内验证记录。",
+    "profile": "scheme",
+    "status": "template"
+  },
+  "sources": [],
+  "sections": [
+    {
+      "id": "identity",
+      "summary": "【待填写】计谋的实际分类、根互动、源文件版本和本轮研究范围是什么？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "根系统",
+              "text": "【待填写】真正上游入口，不只是父事件"
+            },
+            {
+              "title": "触发方式",
+              "text": "【待填写】主动／状态／周期／候选／随机"
+            },
+            {
+              "title": "证据边界",
+              "text": "【待填写】只纳入哪些文件"
+            },
+            {
+              "title": "验证状态",
+              "text": "未研究，不标通过"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "overview",
+      "summary": "【待填写】谁发动？怎样筹备？什么时候真正执行？失败、暴露后会怎样？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "choices",
+      "summary": "【待填写】招募、准备、执行、继续等玩家决策是否存在？各自代价与收益是什么？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "aftermath",
+      "summary": "【待填写】阶段结束、结果事件、计谋对象结束、长期后果如何区分？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "lifecycle",
+      "summary": "【待填写】逐一核对启动、每月、阶段完成、界面点击、失效等实际回调；不存在或未查清分别标注。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": [
+        {
+          "type": "transitions",
+          "items": [
+            {
+              "from": "【待填写】来源节点",
+              "to": "【待填写】目标节点",
+              "cause": "【待填写】进入理由，不能只画箭头"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conditions",
+      "summary": "【待填写】显示和启动条件、月度门槛、同谋资格、执行资格与结果条件分开。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "actors",
+      "summary": "【待填写】发起者、目标、同谋、当前计谋对象与结果接收者如何传递？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "numbers",
+      "summary": "【待填写】进度、优势、隐秘、成功或拦截是否适用？公式、候选分母和取整从哪来？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "browser",
+      "summary": "【待填写】外层池、内层中转、过程、结果、隐藏和直接后继分别完整收录；不得只选代表。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "results",
+      "summary": "【待填写】按实际存在的成败、暴露、拦截、继续／终止分支列结果，不默认相互独立。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "states",
+      "summary": "【待填写】计谋变量、标记、修正、保存目标与异常清理如何处理？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "evidence",
+      "summary": "【待填写】统计唯一事件、引用、详解、后继追踪与实机验证；未知分母不算完成百分比。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "teaching",
+      "summary": "【待填写】逐回调、逐路由解释作用域和真正效果，不把准备等同最终执行。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "raw",
+      "summary": "【待填写】保真保存实际计谋、互动、效果、数值、本地化和事件的关键摘录。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "sources",
+      "summary": "【待填写】所有结论能回到本轮具体版本和真实文件；旧计谋报告只作参考。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "audit",
+      "summary": "【待填写】列出语义与页面检查，游戏内未执行就明确写未执行。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    }
+  ],
+  "cards": [],
+  "code": []
+}

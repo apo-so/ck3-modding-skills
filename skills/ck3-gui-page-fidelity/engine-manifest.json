@@ -1,0 +1,200 @@
+{
+  "schema": "ck3-gui-page-fidelity.engine.v1",
+  "created": "2026-10-26T02:20:21.254619+08:00",
+  "source_checkpoint": {
+    "label": "local-source-preserving-converter",
+    "manifest_sha256": "053454FBC87A1E06F558B8074C3834D732E25234875DC1018DB48794627329B3"
+  },
+  "files": [
+    {
+      "path": "editing/button.py",
+      "sha256": "2AAAA3B3A5829F486ACBD7D380741384C18FC28505B339D7CF6F7A38673E903D"
+    },
+    {
+      "path": "editing/button_viewer.py",
+      "sha256": "20E356350BC262878F159A3729B579B76D6BE181A6E0EA1839F5F402EEC2E422"
+    },
+    {
+      "path": "editing/title.py",
+      "sha256": "44E52C03A39790247010FA80BDAB0E0E088F533DCC61F9DD1E121B2918516410"
+    },
+    {
+      "path": "editing/title_runtime.js",
+      "sha256": "6DD1E822EFE0239D3A722AE0F5DC998D85AD0925CE1AC7D05691425F480D34D5"
+    },
+    {
+      "path": "editing/viewer.py",
+      "sha256": "D7DACF35A17FBFC8194BAAC948FCD890A874C550B64A9C9612E535B68F8FDB26"
+    },
+    {
+      "path": "editing/workspace.py",
+      "sha256": "9A78B430A735BBEAB40852B876924870AAB221FFC9EDB2845C52FF43741A6946"
+    },
+    {
+      "path": "editing/workspace_runtime.js",
+      "sha256": "0E16862A7896A3E5E278B48DE6B0B0DE95A7E7F882B23989D81BEF951D928730"
+    },
+    {
+      "path": "editing/workspace_viewer.py",
+      "sha256": "0B791932C5A67E291EBD8D6370ECE99EFA0FE487F3E58A75B373C9610EB92E5F"
+    },
+    {
+      "path": "preview/allocation.py",
+      "sha256": "FB4761258F43080164B3A29207D7D4032C3801824A62BB57709FC1E4E95C9630"
+    },
+    {
+      "path": "preview/allocation_scene.py",
+      "sha256": "A65CB795333EEEE5D31A3BCDAC778730212068CCA9ED77C5DB6FE56A2F80D425"
+    },
+    {
+      "path": "preview/allocation_viewer.js",
+      "sha256": "742FEEEB12922FBA1AA71D51F515CF0EB3929DEBD5A18CC19B5918416EAA5955"
+    },
+    {
+      "path": "preview/canvas_renderer.js",
+      "sha256": "24567E4A1438E323B401EF26084432ABEA807CC45CC178A31069E80113BB45ED"
+    },
+    {
+      "path": "preview/components.py",
+      "sha256": "6E02667E9A59AB68F3781B9D06EBB0FCF9E08539A0ACE13079D0E60A458953C3"
+    },
+    {
+      "path": "preview/components_runtime.js",
+      "sha256": "9C3C91AE86B183AA53FC70DB6E63ACD7AF61FCFA539B539E9642430760AF9F3E"
+    },
+    {
+      "path": "preview/detail.py",
+      "sha256": "E9EEA2FD2DC4F9DBA69170C17E574A8CAA5A2D844C0DF5D0761474322A8FAF90"
+    },
+    {
+      "path": "preview/detail_runtime.js",
+      "sha256": "A29374CF099F1EB53F9EFBB30653486BFE20F210020AFF55D81F3612831C46A5"
+    },
+    {
+      "path": "preview/detail_viewer.js",
+      "sha256": "F091C50A3587D68D1A7A85E5BCA09FE0A658FECD2F384B8A3F62DC18C5D34E99"
+    },
+    {
+      "path": "preview/journey.py",
+      "sha256": "4C39EEB9DF492EB98062F9F3F128BDCD2794669798B0C25C6786EF46EA78323D"
+    },
+    {
+      "path": "preview/journey_viewer.js",
+      "sha256": "5EF07603452A45B6D4971B07FE19C373A0755CD179C6A967F095B5354DB4DEE8"
+    },
+    {
+      "path": "preview/main_window.py",
+      "sha256": "6552B9D280CC1AFA7D85267C29EBD43DABCFA3D1FCB2894F74DD3276576F7EEE"
+    },
+    {
+      "path": "preview/main_window_viewer.js",
+      "sha256": "FAD2F6BD86E7EA37B3D22FC74B76F09B1DBE41918B72E0DA850FFCA2F218F6E2"
+    },
+    {
+      "path": "preview/map_sidebar.py",
+      "sha256": "C4E2EE9C3799026638258D2A19CE08F729D956F6252AC91487FF66ACFF96E399"
+    },
+    {
+      "path": "preview/map_sidebar_viewer.js",
+      "sha256": "B31C6566B8182F3143A468C39AA18C5EAD2C0A859A49B94C2A3F8E1DAAD15E5A"
+    },
+    {
+      "path": "preview/office_list.py",
+      "sha256": "7451B329AFFE63AB2ECA615E128E1D8CD521237FA6E79D4B86126C79275B2D07"
+    },
+    {
+      "path": "preview/office_list_runtime.js",
+      "sha256": "2771DD0A4483526F2CB5F47CD7FD76142DA610DBDCD6FBA586DFE47BE4736739"
+    },
+    {
+      "path": "preview/office_list_viewer.js",
+      "sha256": "D47BDCDC81B852A29591CB7840168999B1D109F8143F2EC3511292577350F8DD"
+    },
+    {
+      "path": "preview/scene.py",
+      "sha256": "8DF432E0753A1E707928AF44945BDEA22AEAB749375FA3964E526B9DC67C78FA"
+    },
+    {
+      "path": "preview/scene_runtime.js",
+      "sha256": "5E672BE2982ADE88028A81D42CE37F83DFBC5B6F452D9453C5647FD7E8488F28"
+    },
+    {
+      "path": "preview/skin.py",
+      "sha256": "0C6562DAA712DCDEA270FFFBB2C404CB20C025CF4287D5B545ABB38D491A67B1"
+    },
+    {
+      "path": "preview/skin_runtime.js",
+      "sha256": "8CE6138A5C2C8030A97E17DABBD11C73A587753772125966953EA63ADE7E87BF"
+    },
+    {
+      "path": "preview/templates.py",
+      "sha256": "85FF90E6D5FE8D770F6A8CFCB9FEFC81FD401D6E3479C0C891A066B341BF2747"
+    },
+    {
+      "path": "preview/text_metrics.py",
+      "sha256": "728F17130DC876D93CC800036EA063E94A9CF08610D97E7EFE6D2A1056AE3482"
+    },
+    {
+      "path": "preview/workspace_stage.py",
+      "sha256": "B7DCE5C6AF3865E4E7CD3AFC4CD84CF0F517CD72F1708EAF89677CE895AD8CA9"
+    },
+    {
+      "path": "preview/workspace_stage_viewer.js",
+      "sha256": "B7EE8AF36B1EAE38F641A3083A43F7F50C28B175DA90D73C9A1907D45F8529AB"
+    },
+    {
+      "path": "core/syntax.py",
+      "sha256": "02C9976EB5AF2757380120C22D7561C2627AAC79D58505719313F47C24B6CEEE"
+    },
+    {
+      "path": "core/contracts.py",
+      "sha256": "F3BE9864754C387F50C13830C8870045EED2E989DC487DBFEF9FB4FA79E39910"
+    },
+    {
+      "path": "core/resolve.py",
+      "sha256": "107549F16F16FCB56E6C6A0621C508975A83AFA121E8D7B3B437C4E25BF2C96D"
+    },
+    {
+      "path": "core/state.py",
+      "sha256": "DD7FE67AE456705026CED8E318975DE40A9AC78B9ED2B4BB674DAD66BD448368"
+    },
+    {
+      "path": "adapters/mod_index.py",
+      "sha256": "5AD1B1917AB3B89A75D6C305B1501DD835D9D5FF0BF0496EF74F78CC2EEC97B7"
+    },
+    {
+      "path": "adapters/localization.py",
+      "sha256": "79FF3B3E8857EDB1901534DD9AFEC0327538F0E3194A0AF82BE3CEDD1EA531CF"
+    },
+    {
+      "path": "adapters/native_localization.py",
+      "sha256": "601CCEE50726FD76F8ACEF52EE0F640AA36B0C79531ACC4C8E93553D22F023F4"
+    }
+  ],
+  "public_entry": "scripts/convert.py",
+  "supported_reverse_fields": [
+    "title.raw_text",
+    "title.fontsize",
+    "button.raw_text",
+    "button.width",
+    "button.height"
+  ],
+  "game_assets_included": false,
+  "native_control_included": false,
+  "capture_adapter": {
+    "name": "R20 historical council portrait/CoA sample",
+    "size": [
+      1760,
+      990
+    ],
+    "accepted_sha256": "99718CAFA50EE64FCCDE071C45CE7FCB2D61D0A936E4B30E08460F42074C7472"
+  },
+  "portable_patches": [
+    {
+      "path": "preview/workspace_stage.py",
+      "source_sha256": "E240805C3922078C6B0A564A91BC6B789DC68473B4215FB1CCF0B44D9F667E94",
+      "bundled_sha256": "B7DCE5C6AF3865E4E7CD3AFC4CD84CF0F517CD72F1708EAF89677CE895AD8CA9",
+      "reason": "Keep unattached structured Solid style explicit unresolved before optional image contract rebind"
+    }
+  ]
+}

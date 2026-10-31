@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "title": "【待填写】数值与资源",
+    "subtitle": "先看结果，再追机制，最后核对证据。",
+    "game_version": "【待填写】本轮文件版本",
+    "scope": "【待填写】本轮研究范围",
+    "report_version": "1.1",
+    "basis": "【待填写】实际取得的文件与证据",
+    "verification": "尚未研究；没有游戏内验证记录。",
+    "profile": "value",
+    "status": "template"
+  },
+  "sources": [],
+  "sections": [
+    {
+      "id": "identity",
+      "summary": "【待填写】资源是什么、单位是什么、真实变动还是界面预估、研究口径是哪一版？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "根系统",
+              "text": "【待填写】真正上游入口，不只是父事件"
+            },
+            {
+              "title": "触发方式",
+              "text": "【待填写】主动／状态／周期／候选／随机"
+            },
+            {
+              "title": "证据边界",
+              "text": "【待填写】只纳入哪些文件"
+            },
+            {
+              "title": "验证状态",
+              "text": "未研究，不标通过"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "overview",
+      "summary": "【待填写】哪个输入改变哪个结果？先给清楚的算例与影响范围。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "choices",
+      "summary": "【待填写】不同输入、参数或政策有什么取舍？哪些只是界面显示，哪些真实支付？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "aftermath",
+      "summary": "【待填写】一次结算后是否留下债务、累计值、冷却或需要清理的快照？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "lifecycle",
+      "summary": "【待填写】定位来源→读取快照→计算→支付／执行→记账→后继的时点如何连接？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": [
+        {
+          "type": "transitions",
+          "items": [
+            {
+              "from": "【待填写】来源节点",
+              "to": "【待填写】目标节点",
+              "cause": "【待填写】进入理由，不能只画箭头"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conditions",
+      "summary": "【待填写】来源有效、对象存在、份额限制、资金不足等条件是否明确？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "actors",
+      "summary": "【待填写】收入来源、治理者、付款人、收款人和状态持有者分别是谁？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "numbers",
+      "summary": "【待填写】给基数、单位、倍率、上下限、取整、周期与固定算例；可选计算器必须公开假设。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "browser",
+      "summary": "【待填写】按公式定义、实际读取、执行效果、资金边界和反例组织案例。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "results",
+      "summary": "【待填写】正常、零值、负值、上限、现金不足、多对象顺序与重复结算会怎样？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "states",
+      "summary": "【待填写】欠款、累计、时间戳、缓存、继承和反馈循环各自如何处理？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "evidence",
+      "summary": "【待填写】公式、接口、显示口径、真实变化分别验证到哪；不要用界面替代真实资源证据。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "teaching",
+      "summary": "【待填写】按计算顺序逐句解释，记录作用域和输入来源，不把单位混用。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "raw",
+      "summary": "【待填写】保真记录脚本数值与真实效果相关摘录，不用伪接口补空缺。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "sources",
+      "summary": "【待填写】公式各项分别关联定义与调用，注明候选接口与实机核对结果。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "audit",
+      "summary": "【待填写】检查守恒、除零、非法输入、溢出与单位；页面和游戏分别验收。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    }
+  ],
+  "cards": [],
+  "code": []
+}

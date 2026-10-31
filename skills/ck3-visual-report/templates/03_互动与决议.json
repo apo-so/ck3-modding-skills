@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "title": "【待填写】互动与决议",
+    "subtitle": "先看结果，再追机制，最后核对证据。",
+    "game_version": "【待填写】本轮文件版本",
+    "scope": "【待填写】本轮研究范围",
+    "report_version": "1.1",
+    "basis": "【待填写】实际取得的文件与证据",
+    "verification": "尚未研究；没有游戏内验证记录。",
+    "profile": "interaction",
+    "status": "template"
+  },
+  "sources": [],
+  "sections": [
+    {
+      "id": "identity",
+      "summary": "【待填写】这是角色互动还是决议？谁主动，目标是谁，根执行位置在哪？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "根系统",
+              "text": "【待填写】真正上游入口，不只是父事件"
+            },
+            {
+              "title": "触发方式",
+              "text": "【待填写】主动／状态／周期／候选／随机"
+            },
+            {
+              "title": "证据边界",
+              "text": "【待填写】只纳入哪些文件"
+            },
+            {
+              "title": "验证状态",
+              "text": "未研究，不标通过"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "overview",
+      "summary": "【待填写】玩家做什么选择、付出什么、对方是否接受、立即改变什么？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "choices",
+      "summary": "【待填写】显示、选择参数、确认、发送、接受／拒绝分别会带来什么差异？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "aftermath",
+      "summary": "【待填写】回信后是否存在贷款、誓约、标记、冷却或延迟后继？什么时候彻底结束？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "lifecycle",
+      "summary": "【待填写】按钮显示→允许执行→发送／接受判断→付款与实际效果→通知怎样分开？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": [
+        {
+          "type": "transitions",
+          "items": [
+            {
+              "from": "【待填写】来源节点",
+              "to": "【待填写】目标节点",
+              "cause": "【待填写】进入理由，不能只画箭头"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conditions",
+      "summary": "【待填写】可见、允许、有效目标、接受倾向和拒绝分支逐项定位。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "actors",
+      "summary": "【待填写】发送者、接收者、第三方受益者与回信中的当前根角色分别是谁？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "numbers",
+      "summary": "【待填写】价格、接受度、条件倍率和资金不足行为从哪些文件确认？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "browser",
+      "summary": "【待填写】互动入口、接受回信、拒绝回信、隐藏中转和后续事件分别收录。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "results",
+      "summary": "【待填写】接受、拒绝、目标失效、付款失败、任务结束分别如何改变状态？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "states",
+      "summary": "【待填写】债务、契约、关系、冷却和读取者如何延续和清理？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "evidence",
+      "summary": "【待填写】不要把收到回信当成已经核清真实执行点；分别报告证据完成度。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "teaching",
+      "summary": "【待填写】解释各阶段的条件和效果，区分界面提示与实际执行。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "raw",
+      "summary": "【待填写】保真保存入口、效果与后继摘录；本地化另存原样。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "sources",
+      "summary": "【待填写】每个接受／拒绝和付款结论关联具体路径、符号与版本。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "audit",
+      "summary": "【待填写】检查先付款还是先验证、拒绝是否扣费、延迟对象失效等事实与页面表现。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    }
+  ],
+  "cards": [],
+  "code": []
+}

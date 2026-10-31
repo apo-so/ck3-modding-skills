@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "title": "【待填写】变量与状态",
+    "subtitle": "先看结果，再追机制，最后核对证据。",
+    "game_version": "【待填写】本轮文件版本",
+    "scope": "【待填写】本轮研究范围",
+    "report_version": "1.1",
+    "basis": "【待填写】实际取得的文件与证据",
+    "verification": "尚未研究；没有游戏内验证记录。",
+    "profile": "state",
+    "status": "template"
+  },
+  "sources": [],
+  "sections": [
+    {
+      "id": "identity",
+      "summary": "【待填写】状态属于全局、人物、头衔、计谋还是其他对象？研究版本与范围是什么？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": [
+        {
+          "type": "cards",
+          "items": [
+            {
+              "title": "根系统",
+              "text": "【待填写】真正上游入口，不只是父事件"
+            },
+            {
+              "title": "触发方式",
+              "text": "【待填写】主动／状态／周期／候选／随机"
+            },
+            {
+              "title": "证据边界",
+              "text": "【待填写】只纳入哪些文件"
+            },
+            {
+              "title": "验证状态",
+              "text": "未研究，不标通过"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "overview",
+      "summary": "【待填写】固定名称、变化的值、动态持有者分别是什么？本轮能确认哪些能力边界？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "choices",
+      "summary": "【待填写】存在／不存在、类型不同或持有者不同分别怎样分支？不要伪造玩家选项。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "aftermath",
+      "summary": "【待填写】保存后由谁读取，何时更新，何时清理？缺半条链必须说明。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "lifecycle",
+      "summary": "【待填写】从写入→读取→更新→移除追踪状态；继承与读档另列。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": [
+        {
+          "type": "transitions",
+          "items": [
+            {
+              "from": "【待填写】来源节点",
+              "to": "【待填写】目标节点",
+              "cause": "【待填写】进入理由，不能只画箭头"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "conditions",
+      "summary": "【待填写】怎样检查存在、合法对象与类型？未找到的功能不能宣布引擎不支持。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "actors",
+      "summary": "【待填写】当前作用域、值指向的对象、键的持有者是否被混为一谈？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "numbers",
+      "summary": "【待填写】是计数、布尔还是对象引用？初始值、递增、时效、取整是否适用？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "browser",
+      "summary": "【待填写】按写入、读取、完整读写、类型对照与证据边界组织案例，而不强求事件池。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "results",
+      "summary": "【待填写】每个样本分别写能证明什么、不能证明什么；没有证据不提供拼名伪代码。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "states",
+      "summary": "【待填写】逐状态列名称、持有者、写入点、读取点、更新和清理；未确认项公开。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "evidence",
+      "summary": "【待填写】状态链是否完整、原文件是否取得、是否只是历史报告摘录、实测是否执行？",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "teaching",
+      "summary": "【待填写】直接在语句旁解释固定键、动态值和当前对象；分支原因中文化。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "raw",
+      "summary": "【待填写】区分游戏原文件、历史报告摘录、概念语法，分别标注保真边界。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "sources",
+      "summary": "【待填写】指向精确文件、符号和行段，不能仅以变量名称作为机制证明。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    },
+    {
+      "id": "audit",
+      "summary": "【待填写】测试源码哈希、无脚本阅读、分支表达，并单列待做的游戏探针。",
+      "evidence": "待确认",
+      "source_ids": [],
+      "blocks": []
+    }
+  ],
+  "cards": [],
+  "code": []
+}
