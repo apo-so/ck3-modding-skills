@@ -10,7 +10,8 @@
 
 | 来源 | 参考范围 | 本仓库的处理 |
 |---|---|---|
-| [ReikiMaple / Skills-for-CrusaderKing3-Modding](https://github.com/ReikiMaple/Skills-for-CrusaderKing3-Modding/tree/d3098dd0551adc39f067eb3ed4fb6a15a7003644) | 文件/参数检查、静态诊断的研究线索 | 保留来源链接，以本项目工作流重新组织检查方法；不附上游技能文件、Wiki镜像或接口资料包，不将本项目MIT视为上游授权 |
+| [ReikiMaple / Skills-for-CrusaderKing3-Modding](https://github.com/ReikiMaple/Skills-for-CrusaderKing3-Modding/tree/d3098dd0551adc39f067eb3ed4fb6a15a7003644) | CK3 参考资料导航、代码规范、scope/trigger/effect、兼容性、性能和 Tiger 调试工作流 | 本仓库在原版核验、代码审查和静态诊断文档中独立整理通用工程原则并注明来源；不复制上游技能文件、Wiki 镜像或工具。检查该固定版本时未发现 LICENSE 文件，因此不将其内容或 Wiki 镜像作为可再分发材料；本仓库 MIT 不适用于上游内容。 |
+
 | [XenoAmess / ck3_eternal_recurrence](https://github.com/XenoAmess/ck3_eternal_recurrence/tree/7aab62bb869a054175c699d0544f45cc2fabbdcb) | 原生桥接入思路、能力发现与动作后读回 | 只总结接入与验证方法，不附上游源码、DLL、注入器或服务器；上游版本的 [GPL-3.0许可证](https://github.com/XenoAmess/ck3_eternal_recurrence/blob/7aab62bb869a054175c699d0544f45cc2fabbdcb/LICENSE) 独立适用 |
 | [Paradox Interactive / Crusader Kings III](https://www.paradoxinteractive.com/games/crusader-kings-iii/about) | 游戏接口、文件格式、作用域和必要语法示例 | 游戏名称、符号及示例用于说明兼容和调用；第三方权利归原权利人。本包不提供游戏源码全文、资产、生成文档快照或存档；实际核验读取使用者合法安装 |
 

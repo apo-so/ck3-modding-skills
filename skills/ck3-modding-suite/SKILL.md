@@ -6,7 +6,6 @@ metadata:
   author: apo-so
 ---
 
-
 # CK3 Mod 开发入口
 
 先明确目标行为、当前源码/游戏版本与任务范围。研究、计划、实施、部署、游戏测试分别按用户授权执行；本集合不授予外部工具或游戏权限。
@@ -17,6 +16,8 @@ metadata:
 |---|---|
 | 接口、scope、schema 或原版调用 | [原版核验](../ck3-reference/SKILL.md) |
 | 事件、决议、互动、资源与兼容 | [脚本工程](../ck3-script-engineering/SKILL.md) |
+| 代码规范、参数、scope、加载冲突与性能审查 | [代码审查清单](../ck3-script-engineering/references/coding-review.md) |
+| Tiger、日志和静态问题分诊 | [静态诊断](../ck3-script-engineering/references/static-diagnostics.md) |
 | GUI 上下文、列表、刷新、布局 | [GUI 修改](../ck3-modify-gui/SKILL.md) |
 | 辅助头衔/住所资源与收入明细 | [账户经济](../ck3-auxiliary-account-economy-gui/SKILL.md) |
 | 引擎行为不能由源码区分 | [运行探针](../ck3-runtime-probe/SKILL.md) |
